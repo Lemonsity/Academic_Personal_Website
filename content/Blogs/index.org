@@ -1,0 +1,7 @@
+#+TITLE: Blogs
+
+#+INCLUDE: "~/orgs/org_Personal_Website/content/header.org"
+
+Watch me forget about this eventually...
+
+- [[./More_About_Me.org][More About Me]]

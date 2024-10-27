@@ -1,0 +1,49 @@
+#+TITLE: A Bit More About Me (2024)
+
+#+INCLUDE: "~/orgs/org_Personal_Website/content/header.org"
+#+BIBLIOGRAPHY: "./Ref.bib"
+#+cite_export: basic author-year square
+
+Hi,
+
+If you have a few minutes to spare, I will talk a bit more about myself. A bit of history, research.
+
+I did my undergrad at the University of Toronto, Scarborough campus, where I started as a Specialist in Computer Science (Specialist is "Major++" at UofT)
+
+* Computer Science
+
+Orignially, I wanted to become a software engineer. However, After a few unsatisfactory co-ops, I was left with a bad taste in my mouth (Admittedly, I should've tried harder finding better positions). It was also around the same time that I learned I was decent at theoretical side of computer science. Thus, I started leaning toward that area.
+
+I took a couple theoretical computer science courses. You can see that from the courses I took:
+- Introduction to the Theory of Computation
+- Computability and Computational Complexity
+- Algorithm Design and Analysis
+- Numerical Algorithms for Computational Mathematics
+
+I was considering going into theoretical computer science research. However, during the winter of my second last year, my professor for the Programming Languages (PL) course told me there was going to be a reading course at the Mississauga campus during the summer.
+
+I was already interested in functional programming, previously reading some lambda calculus notes. I took the course over the summer, where we read [[https://thelittletyper.com/][The Little Typer]] over the summer. After the course, I decided that I will study PL instead. During my fourth-year, I applied for graduate study in PL.
+
+I was still busy with school in the final year. During the summer in between undergrad and Master's, I have been learning bits of PL since then. Trying to read textbooks like [[https://softwarefoundations.cis.upenn.edu/][Software Foundations]] and [[https://www.cis.upenn.edu/~bcpierce/tapl/][Types and Programming Languages (TAPL)]]. I also tried to get comfortable reading papers.
+
+* Mathematics
+
+In my third-year, my friend / roommate was a student studying pure math. He insist me to take a course in Mathematical Logic and Group Theory. I reluctantly agreed.
+
+The professor for Mathematical Logic was one of the best professor I had. They know how to make the course interesting, and gave your time to ponder the ideas in depth. Covid also helped. There were just three students who came to the in-person lectures. He was happy to chat with us after class on the way back to his office. The professor for Group Theory was equally great, but in a different way. They were a research professor, and was able to cover a lot of content. But, he did so in a way that mortals can understand.
+
+Mathematics had to give way for computer science. But, I returned to mathematics in the last few terms, getting a second major in mathematics in the end. Some of the courses I took include:
+- Analysis
+- Combinatoric / Graph Theory
+- Topology (Highly recommend)
+- Category Theory
+
+Although not my main focus now, I try to make time for mathematics, and have kept some mathematics friends.
+
+* Research
+
+My current research is in the subfield of Effect Handlers. You can get a good idea of the topic from either Pretnar's [cite:@pretnar_introduction_2015] or Bauer's [cite:@DBLP:journals/corr/abs-1807-05923] paper. You can also check out [[https://www.eff-lang.org/][Eff-lang]] for hands on experience.
+
+* Bibliography
+
+#+print_bibliography:

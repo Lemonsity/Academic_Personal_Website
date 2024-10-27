@@ -1,15 +1,18 @@
-#+INCLUDE: "./header.org"
 #+TITLE: Youzhang (Mark) Sun
+
+#+INCLUDE: "~/orgs/org_Personal_Website/content/header.org"
 
 #+ATTR_HTML: 100%
 [[./assets/banner.jpg]]
 
 * About
-I am a 1st-year Master's student at the [[https://www.utoronto.ca/][University of Toronto]], where I am advised by [[https://xnning.github.io/][Ningning Xie]].
+I am a first-year Master's student at the [[https://www.utoronto.ca/][University of Toronto]], where I am advised by [[https://xnning.github.io/][Ningning Xie]].
 
 My main interest is Programming Languages. Currently with a focus on Algebraic Effects and Effect Handlers.
 
 I am also broadly interested in Mathematics. I am finding the time to learn Category Theory, Logic, and Topology.
+
+I will ramble a bit more about myself [[./Blogs/More_About_Me.org][here]].
 
 * Teaching
 - Teaching Assistant, /Principles of Programming Languages/, University of Toronto Mississauga, Fall 2024
@@ -21,3 +24,9 @@ I am also broadly interested in Mathematics. I am finding the time to learn Cate
 
 * Service
 Student Volunteer: /ICFP 2024/
+
+* Contact
+You can reach me at the following emails:
+- youzhang.sun [at] mail [dot] utoronto [dot] ca
+- yzms [at] cs [dot] toronto [dot] edu (This one may get slower respond)
+I hope we can learn from each other.

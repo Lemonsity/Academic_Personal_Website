@@ -1,7 +1,7 @@
 #+begin_export html
-<div class="header">
+<div class="my-header">
 <a href="/index.html">Home</a>
-<a href="/index.html">Notes</a>
-<a href="/index.html">Thoughts</a>
+<a href="/Notes/index.html">Notes</a>
+<a href="/Blogs/index.html">Blog</a>
 </div>
 #+end_export
