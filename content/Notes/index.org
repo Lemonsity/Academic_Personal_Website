@@ -1,0 +1,4 @@
+#+INCLUDE: "../header.org"
+#+TITLE: Notes
+
+Maybe learning is a struggle?
